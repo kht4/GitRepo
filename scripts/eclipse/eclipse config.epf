@@ -1,0 +1,38 @@
+#Thu Jul 14 16:05:44 CEST 2016
+/instance/org.eclipse.cdt.ui/formatter_profile=_khattabFormat
+/instance/org.eclipse.cdt.ui/scalability.detect=false
+/instance/org.eclipse.cdt.ui/content_assist_proposals_timeout=5000
+file_export_version=3.0
+/instance/org.eclipse.cdt.ui/scalability.parserBasedContentAssist=true
+/instance/org.eclipse.cdt.ui/scalability.syntaxColor=true
+/instance/org.eclipse.cdt.ui/formattingScopeForEmptySelection=statement
+/instance/org.eclipse.cdt.ui/formattingConfirmScopeForEmptySelection=false
+/instance/org.eclipse.cdt.ui/hoverModifiers=org.eclipse.cdt.ui.BestMatchHover;0;org.eclipse.cdt.debug.internal.ui.editors.DebugTextHover;\!0;org.eclipse.cdt.ui.ProblemHover;\!0;org.eclipse.cdt.ui.CDocHover;\!0;org.eclipse.cdt.ui.CMacroExpansionHover;\!0;org.eclipse.cdt.ui.CSourceHover;Shift;org.eclipse.cdt.ui.AnnotationHover;\!0;
+@org.eclipse.jdt.ui=3.11.0.v20150527-0925
+/instance/org.eclipse.cdt.ui/markOccurrences=false
+@org.eclipse.jdt.launching=3.8.0.v20150527-0946
+/instance/org.eclipse.cdt.ui/scalability.semanticHighlight=true
+/instance/org.eclipse.ui.ide/org.eclipse.ui.internal.views.markers.CachedMarkerBuilderorg.eclipse.ui.views.TaskList=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<filterGroups andFilters\="false" markerLimit\="2000" markerLimitEnabled\="true">\r\n<filterGroup IMemento.internal.id\="TODOs" enabled\="true" filterLimit\="-1" scope\="3" workingSet\="Aggregate for window 1439823595179">\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.completionField" completion\="3"/>\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.priorityField" selectedPriorities\="7"/>\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.descriptionField" containsModifier\="CONTAINS" containsText\="@khattab"/>\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.markerType" selectedTypes\="org.eclipse.cdt.core.task\:"/>\r\n</filterGroup>\r\n</filterGroups>
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.8
+@org.eclipse.jdt.core=3.11.0.v20150602-1242
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+@org.eclipse.ui.ide=3.11.0.v20150825-2158
+/instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=255,255,225
+/instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
+@org.eclipse.cdt.ui=5.11.0.201509131935
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1443613357950">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1443613357950" name\="jre1.8.0_60" path\="C\:\\Program Files\\Java\\jre1.8.0_60"/>\r\n</vmType>\r\n</vmSettings>\r\n
+/instance/org.eclipse.cdt.ui/content_assist_disabled_computers=org.eclipse.cdt.ui.textProposalCategory\u0000
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+/instance/org.eclipse.cdt.ui/editor_folding_preprocessor_enabled=true
+/instance/org.eclipse.cdt.ui/org.eclipse.cdt.ui.text.templates.format=true
+/instance/org.eclipse.cdt.ui/scalability.enableAll=true
+@org.eclipse.ui.workbench=3.107.0.v20150825-2206
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=12
+\!/=
+/instance/org.eclipse.cdt.ui/hoverModifierMasks=org.eclipse.cdt.ui.BestMatchHover;0;org.eclipse.cdt.debug.internal.ui.editors.DebugTextHover;0;org.eclipse.cdt.ui.ProblemHover;0;org.eclipse.cdt.ui.CDocHover;0;org.eclipse.cdt.ui.CMacroExpansionHover;0;org.eclipse.cdt.ui.CSourceHover;131072;org.eclipse.cdt.ui.AnnotationHover;0;
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding commandId\="org.eclipse.ui.edit.addTask" contextId\="org.eclipse.wst.xml.expand" keyConfigurationId\="org.eclipse.ui.emacsAcceleratorConfiguration" keySequence\="CTRL+T"/>\r\n<keyBinding commandId\="org.eclipse.ui.edit.addTask" contextId\="org.eclipse.cdt.ui.cViewScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+T"/>\r\n<keyBinding contextId\="org.eclipse.cdt.ui.cViewScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+T"/>\r\n<keyBinding commandId\="org.eclipse.ui.edit.addTask" contextId\="org.eclipse.cdt.ui.cEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+T"/>\r\n<keyBinding contextId\="org.eclipse.cdt.ui.cEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+T"/>\r\n<keyBinding contextId\="org.eclipse.cdt.ui.cEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+T"/>\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+P"/>\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+T"/>\r\n</org.eclipse.ui.commands>
+/instance/org.eclipse.cdt.ui/scalability.numberOfLines=100000
+/instance/org.eclipse.cdt.ui/scalability.contentAssistAutoActivation=true
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
